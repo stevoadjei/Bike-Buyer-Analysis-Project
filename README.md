@@ -11,7 +11,7 @@ The analysis was structured to answer the following key questions:<br>
 
 # 2. Data Source and Preparation (The "What" and "How")
 2.1 Data Source <br>
-The analysis was performed on the dataset: <a href: "Excel Project Dataset.xlsx - bike_buyers.csv1"></a> <br>
+The analysis was performed on the dataset: <a href: "[Excel Project Dataset.xlsx - bike_buyers.csv1](https://github.com/stevoadjei/Bike-Buyer-Analysis-Project/blob/main/Excel%20Project%20Dataset.xlsx)"></a> <br>
 2.2 Data Cleaning and Transformation <br>
 The raw data underwent several critical cleaning and transformation steps to ensure accuracy and clarity for analysis. <br>
 
